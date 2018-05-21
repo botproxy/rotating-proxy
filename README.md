@@ -14,6 +14,10 @@ Client <---->  HAproxy  <-> Polipo 2 <-> Tor Proxy 2
 __Why:__ Lots of IP addresses. One single endpoint for your client.
 Load-balancing by HAproxy.
 
+BotProxy
+--------
+BotProxy provides cloud based ready to use rotating HTTP proxy. All you need is to create an account and add a single proxy into your app configuration. Find more details at our website: https://botproxy.net
+
 Usage
 -----
 
